@@ -18,7 +18,7 @@ Os lançamentos do Bitcoin Core são versionados da seguinte forma: MAJOR.MINOR,
 
 Nosso objetivo é fazer um lançamento principal (major) a cada 6 meses. Eles serão numerados como 29.0, 30.0 etc.
 
-Forneceremos lançamentos menores ("de manutenção") que corrigem bugs (de segurança ou não) para cada lançamento principal. Eles serão numerados como 29.3, 30.1 etc. Não introduziremos novos recursos importantes em lançamentos de manutenção (exceto mudanças nas regras de consenso, veja abaixo).
+Forneceremos lançamentos menores (minor/"de manutenção") que corrigem bugs (de segurança ou não) para cada lançamento principal. Eles serão numerados como 29.3, 30.1 etc. Não introduziremos novos recursos importantes em lançamentos de manutenção (exceto mudanças nas regras de consenso, veja abaixo).
 
 ## Regras de consenso
 
